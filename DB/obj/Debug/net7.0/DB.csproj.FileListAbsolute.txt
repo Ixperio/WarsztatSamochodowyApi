@@ -1,0 +1,14 @@
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\bin\Debug\net7.0\DB.deps.json
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\bin\Debug\net7.0\DB.runtimeconfig.json
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\bin\Debug\net7.0\DB.dll
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\bin\Debug\net7.0\DB.pdb
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.csproj.AssemblyReference.cache
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.AssemblyInfoInputs.cache
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.AssemblyInfo.cs
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.dll
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\refint\DB.dll
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.pdb
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\DB.genruntimeconfig.cache
+C:\Users\alok1\Desktop\STUDIA\SEM5\KOMPONENTY\Warsztat-samochodowy-backend\DB\obj\Debug\net7.0\ref\DB.dll
